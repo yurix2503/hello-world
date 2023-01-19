@@ -12,7 +12,7 @@
     <input type="text" placeholder="Enter Surname Name" name="Surname" id="Surname" required>
     <br>
 
-    <label for="mobile"><b>Enter mobile number</b></label>
+    <label for="mobile"><b>Enter Mobile Number</b></label>
     <input type="text" placeholder="Enter Moible Number" name="mobile" id="mobile" required>
     <br>
 
