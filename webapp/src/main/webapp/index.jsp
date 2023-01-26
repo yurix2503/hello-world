@@ -21,8 +21,8 @@
     <br>
 
     <br>
-    <label for="Address"><b>Enter Address</b></label>
-    <input type="text" placeholder="Enter Addrress" name="Address" id="Address" required>
+    <label for="Home Address"><b>Enter Address</b></label>
+    <input type="text" placeholder="Enter Home Addrress" name="Address" id="Address" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
