@@ -4,36 +4,37 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
+    <br>
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter First Name" name="Name" id="Name" required>
+    <br>
 
     <br>
     <label for="Surname"><b>Enter Surname</b></label>
     <input type="text" placeholder="Enter Surname Name" name="Surname" id="Surname" required>
     <br>
-    <br>
 
+    <br>
     <label for="mobile"><b>Enter Mobile Number</b></label>
     <input type="text" placeholder="Enter Moible Number" name="mobile" id="mobile" required>
     <br>
-    <br>
 
+    <br>
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
-    <br>
 
     <br>
-    <label for="Home Address"><b>Enter Address</b></label>
+    <label for="Home Address"><b>Enter Home Address</b></label>
     <input type="text" placeholder="Enter Home Addrress" name="Address" id="Address" required>
     <br>
-    <br>
 
+    <br>
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
-    <br>
 
+    <br>
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
