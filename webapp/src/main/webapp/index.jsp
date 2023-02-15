@@ -15,6 +15,11 @@
     <br>
 
     <br>
+    <label for="Passport ID"><b>Enter your Passport ID</b></label>
+    <input type="text" placeholder="Enter your Passport ID" name="Passport ID" id="PassportID" required>
+    <br>
+
+    <br>
     <label for="mobile"><b>Enter Mobile Number</b></label>
     <input type="text" placeholder="Enter Moible Number" name="mobile" id="mobile" required>
     <br>
