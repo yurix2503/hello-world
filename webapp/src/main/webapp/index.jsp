@@ -15,7 +15,7 @@
     <br>
 
     <br>
-    <label for="Passport ID"><b>Enter your Passport ID</b></label>
+    <label for="Passport ID"><b>Enter Your Passport ID</b></label>
     <input type="text" placeholder="Enter your Passport ID" name="Passport ID" id="PassportID" required>
     <br>
 
