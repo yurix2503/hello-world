@@ -14,10 +14,10 @@
     <input type="text" placeholder="Enter Surname Name" name="Surname" id="Surname" required>
     <br>
 
-    <br>
+    <!-- <br>
     <label for="Passport ID"><b>Enter Your Passport ID</b></label>
     <input type="text" placeholder="Enter your Passport ID" name="Passport ID" id="PassportID" required>
-    <br>
+    <br -->
 
     <br>
     <label for="mobile"><b>Enter Mobile Number</b></label>
