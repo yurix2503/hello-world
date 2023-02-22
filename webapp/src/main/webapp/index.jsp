@@ -17,7 +17,7 @@
     <!-- <br>
     <label for="Passport ID"><b>Enter Your Passport ID</b></label>
     <input type="text" placeholder="Enter your Passport ID" name="Passport ID" id="PassportID" required>
-    <br -->
+    <br> -->
 
     <br>
     <label for="mobile"><b>Enter Mobile Number</b></label>
@@ -29,10 +29,10 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <br>
+    <!-- <br>
     <label for="Home Address"><b>Enter Home Address</b></label>
     <input type="text" placeholder="Enter Home Addrress" name="Address" id="Address" required>
-    <br>
+    <br>-->
 
     <br>
     <label for="psw"><b>Password</b></label>
