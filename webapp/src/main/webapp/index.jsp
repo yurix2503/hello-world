@@ -1,15 +1,9 @@
 <form action="action_page.php">
   <div class="container">
-     <input type="color" id="head" name="head"
-          value="#e66465">
-     <label for="head">Test Head Color</label>
     <h1>New User Registration for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <br>
-    <input type="color" id="Name" name="Name"
-			value="#e66465">
     <br>
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter First Name" name="Name" id="Name" required>
@@ -56,8 +50,13 @@
 
   
 </form>
+
+
 <html>
 <head>
+     <input type="color" id="head" name="head"
+          value="#e66465">
+     <label for="head">Test Head Color</label>
    <style>
       button {
          height: 30px;
@@ -84,3 +83,20 @@
    </script>
 </body>
 </html>
+
+
+<p>
+  An example demonstrating the use of the
+  <code>&lt;input type="color"&gt;</code> control.
+</p>
+
+<label for="color-picker">Color:</label>
+<input type="color" value="#ff0000" id="color-picker" />
+
+<p>
+  Watch the paragraph colors change when you adjust the color picker. As you
+  make changes in the color picker, the first paragraph's color changes, as a
+  preview (this uses the <code>input</code> event). When you close the color
+  picker, the <code>change</code> event fires, and we detect that to change
+  every paragraph to the selected color.
+</p>
