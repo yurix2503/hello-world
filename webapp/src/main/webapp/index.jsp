@@ -1,5 +1,8 @@
 <form action="action_page.php">
   <div class="container">
+   <input type="color" id="head" name="head"
+          value="#e66465">
+   <label for="head">Head</label>
     <h1>New User Registration for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
