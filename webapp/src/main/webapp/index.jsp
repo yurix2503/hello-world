@@ -14,13 +14,15 @@
   <h1>Welcome to My AI Webpage</h1>
   <p>This is a webpage that showcases some of the latest and coolest AI websites.</p>
   <ul>
-    <li><a href="https://chat.openai.com/chat">ChatGPT</a>: <p>Best AI ChatBot &amp; Best AI Tool Overall</p></li>
-    <li><a href="https://midjourney.com">MidJourney</a>: <p>Best AI Art Generator</p></li>
-    <li><a href="https://shutterstock.7eer.net/6b3nyK">Shutterstock Generator</a>: <p>Generate licensable AI stock art &#8211;</p></li>
-    <li><a href="https://bito.co">Bito</a>: <p>Best AI Coding Tool</p></li>
-    <li><a href="https://ai.google/">Google AI</a>: <p>Learn about Google's research, tools, and applications of artificial intelligence.</p></li>
-    <li><a href="https://aimagazine.com/top10/top-10-our-favourite-ai-websites-to-use-in-2022">Top 10: Our favourite AI websites to use in 2022</a>: <p>A list of some of the most fun and useful AI websites to try out.</p></li>
-    <li><a href="https://justcreative.com/best-ai-tools/">101+ Best AI Tools (Sorted by Category) April 2023</a>: <p>A comprehensive guide to the best AI tools for various purposes, such as art, copywriting, video, logo, and more.</p></li>
+    <p>
+    <li><a href="https://chat.openai.com/chat">ChatGPT</a>: Best AI ChatBot &amp; Best AI Tool Overall</li>
+    <li><a href="https://midjourney.com">MidJourney</a>: Best AI Art Generator</li>
+    <li><a href="https://shutterstock.7eer.net/6b3nyK">Shutterstock Generator</a>: Generate licensable AI stock art &#8211;</li>
+    <li><a href="https://bito.co">Bito</a>: Best AI Coding Tool</li>
+    <li><a href="https://ai.google/">Google AI</a>: Learn about Google's research, tools, and applications of artificial intelligence.</li>
+    <li><a href="https://aimagazine.com/top10/top-10-our-favourite-ai-websites-to-use-in-2022">Top 10: Our favourite AI websites to use in 2022</a>:A list of some of the most fun and useful AI websites to try out.</li>
+    <li><a href="https://justcreative.com/best-ai-tools/">101+ Best AI Tools (Sorted by Category) April 2023</a>: A comprehensive guide to the best AI tools for various purposes, such as art, copywriting, video, logo, and more.</li>
+   </p>
   </ul>
 
 
