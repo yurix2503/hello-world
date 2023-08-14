@@ -15,7 +15,10 @@
   <p>This is a webpage that showcases some of the latest and coolest AI websites.</p>
   <ul>
     <p>
-    <li><a href="https://chat.openai.com/chat">ChatGPT</a>: Best AI ChatBot &amp; Best AI Tool Overall</li>
+    <li><a href="https://chat.openai.com/chat">ChatGPT</a>: Best AI ChatBot &amp; OpenAI AI Tool Overall</li>
+    <li><a href="https://bard.google.com/?hl=en">Bard-AI</a>: AI ChatBot by Google &amp; Google AI Tool Overall</li>
+    <li><a href="https://www.bing.com/?/ai">Bing-AI</a>: AI ChatBot by Microsoft &amp; MS AI Tool Overall.</li>
+    <li><a href="https://theresanaiforthat.com/">AI aggregator</a>: The largest AI aggregator by Potato: AI Investment Ideas. &amp; Best AI Tool Overall</li>
     <li><a href="https://midjourney.com">MidJourney</a>: Best AI Art Generator</li>
     <li><a href="https://shutterstock.7eer.net/6b3nyK">Shutterstock Generator</a>: Generate licensable AI stock art &#8211;</li>
     <li><a href="https://bito.co">Bito</a>: Best AI Coding Tool</li>
