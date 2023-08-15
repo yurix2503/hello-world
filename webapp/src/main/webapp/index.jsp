@@ -19,7 +19,7 @@
     <li><a href="https://chat.openai.com/chat">ChatGPT</a>:AI ChatBot by OpenAI </li>
     <li><a href="https://bard.google.com/?hl=en">Bard-AI</a>: AI ChatBot by Google </li>
     <li><a href="https://www.bing.com/?/ai">Bing-AI</a>: AI ChatBot by Microsoft</li>
-    <li><a href="https://theresanaiforthat.com/">AI aggregator</a>: The largest AI aggregator by Potato: AI Investment Ideas</li>
+    <li><a href="https://theresanaiforthat.com/">There Is An AI For That</a>: The largest AI aggregator by Potato: AI Investment Ideas</li>
     <li><a href="https://midjourney.com">MidJourney</a>: Best AI Art Generator</li>
     <li><a href="https://shutterstock.7eer.net/6b3nyK">Shutterstock Generator</a>: Generate licensable AI stock art &#8211;</li>
     <li><a href="https://bito.co">Bito</a>: Best AI Coding Tool</li>
