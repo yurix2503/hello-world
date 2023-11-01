@@ -92,4 +92,18 @@ function updateAll(event) {
     p.style.color = event.target.value;
   });
 }
+
+const mybutton = document.getElementById('mybutton');
+
+mybutton.addEventListener('click', () => {
+  // Generate a random color
+  const rannumber1 = Math.floor(Math.random() * 256);
+  const rannumber2 = Math.floor(Math.random() * 256);
+  const rannumber3 = Math.floor(Math.random() * 256);
+  const ranrgb = `rgb(${rannumber1}, ${rannumber2}, ${rannumber3})`;
+
+  // Set the button's background color to the random color
+  mybutton.style.backgroundColor = ranrgb;
+});
+
 </script>
