@@ -72,13 +72,38 @@ const defaultColor = "#0000ff";
 
 window.addEventListener("load", startup, false);
 
+//function startup() {
+//  colorPicker = document.querySelector("#color-picker");
+//  colorPicker.value = defaultColor;
+//  colorPicker.addEventListener("input", updateFirst, false);
+//  colorPicker.addEventListener("change", updateAll, false);
+//  colorPicker.select();
+//}
+
 function startup() {
   colorPicker = document.querySelector("#color-picker");
+
+  // Generate a random color
+  defaultColor = getRandomColor();
+
   colorPicker.value = defaultColor;
+
   colorPicker.addEventListener("input", updateFirst, false);
   colorPicker.addEventListener("change", updateAll, false);
   colorPicker.select();
 }
+
+// Function to generate a random color
+function getRandomColor() {
+  var letters = '0123456789ABCDEF';
+  var color = '#';
+  for (var i = 0; i < 6; i++) {
+    color += letters[Math.floor(Math.random() * 16)];
+  }
+  return color;
+}
+
+
 
 function updateFirst(event) {
   const p = document.querySelector("p");
@@ -92,19 +117,6 @@ function updateAll(event) {
     p.style.color = event.target.value;
   });
 }
-
-const mybutton = document.getElementById('mybutton');
-
-mybutton.addEventListener('click', () => {
-  // Generate a random color
-  const rannumber1 = Math.floor(Math.random() * 256);
-  const rannumber2 = Math.floor(Math.random() * 256);
-  const rannumber3 = Math.floor(Math.random() * 256);
-  const ranrgb = `rgb(${rannumber1}, ${rannumber2}, ${rannumber3})`;
-
-  // Set the button's background color to the random color
-  mybutton.style.backgroundColor = ranrgb;
-});
 
 	
 </script>
