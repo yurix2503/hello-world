@@ -79,7 +79,7 @@ function startup() {
  colorPicker = document.querySelector("#color-picker");
 
  // Generate a random color
- const randomColor = `hsl(${Math.random() * 260}, 100%, 50%)`;
+ const randomColor = `hsl(${Math.random() * 360}, 100%, ${75 + Math.random() * 25}%)`;
 
  // Set the color picker value to the random color
  colorPicker.value = randomColor;
