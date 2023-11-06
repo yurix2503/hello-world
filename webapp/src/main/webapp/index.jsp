@@ -68,7 +68,7 @@
 <script>
 let colorPicker;
 
-const colors = ["#008000", "#FF0000", "#FFA500", "#0000FF"];
+const colors = ["#EE82EE", "#008000", "#FF0000", "#FFA500", "#0000FF"];
 
 function getRandomColor() {
   const randomIndex = Math.floor(Math.random() * colors.length);
