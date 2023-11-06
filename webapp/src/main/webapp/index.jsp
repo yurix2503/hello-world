@@ -58,7 +58,6 @@
 <input type="color" value="#ff0000" id="color-picker" />
 
 <p>
-  First color should be random.
   Watch the paragraph colors change when you adjust the color picker. As you
   make changes in the color picker, the first paragraph's color changes, as a
   preview (this uses the <code>input</code> event). When you close the color
@@ -67,51 +66,39 @@
 </p>
 
 <script>
-
 let colorPicker;
 
-const defaultColor = "#0000ff";
+const colors = ["#008000", "#FF0000", "#FFA500", "#0000FF"];
+
+function getRandomColor() {
+  const randomIndex = Math.floor(Math.random() * colors.length);
+  return colors[randomIndex];
+}
+
+const defaultColor = getRandomColor();
 
 window.addEventListener("load", startup, false);
 
 function startup() {
-
- colorPicker = document.querySelector("#color-picker");
-
- // Generate a random color
- const randomColor = `hsl(${Math.random() * 360}, 100%, ${75 + Math.random() * 25}%)`;
-
- // Set the color picker value to the random color
- colorPicker.value = randomColor;
-
- colorPicker.addEventListener("input", updateFirst, false);
-
- colorPicker.addEventListener("change", updateAll, false);
-
- colorPicker.select();
-
+  colorPicker = document.querySelector("#color-picker");
+  colorPicker.value = defaultColor;
+  colorPicker.addEventListener("input", updateFirst, false);
+  colorPicker.addEventListener("change", updateAll, false);
+  colorPicker.select();
 }
 
 function updateFirst(event) {
-
- const p = document.querySelector("p");
-
- if (p) {
-
-  p.style.color = event.target.value;
-
- }
-
+  const p = document.querySelector("p");
+  if (p) {
+    p.style.color = event.target.value;
+  }
 }
 
 function updateAll(event) {
-
- document.querySelectorAll("p").forEach((p) => {
-
-  p.style.color = event.target.value;
-
- });
-
+  document.querySelectorAll("p").forEach((p) => {
+    p.style.color = event.target.value;
+  });
 }
 
+	
 </script>
