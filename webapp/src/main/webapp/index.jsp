@@ -58,6 +58,7 @@
 <input type="color" value="#ff0000" id="color-picker" />
 
 <p>
+  First color should be random.
   Watch the paragraph colors change when you adjust the color picker. As you
   make changes in the color picker, the first paragraph's color changes, as a
   preview (this uses the <code>input</code> event). When you close the color
@@ -78,7 +79,7 @@ function startup() {
  colorPicker = document.querySelector("#color-picker");
 
  // Generate a random color
- const randomColor = `hsl(${Math.random() * 360}, 100%, 50%)`;
+ const randomColor = `hsl(${Math.random() * 260}, 100%, 50%)`;
 
  // Set the color picker value to the random color
  colorPicker.value = randomColor;
