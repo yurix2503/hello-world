@@ -66,6 +66,7 @@
 </p>
 
 <script>
+
 let colorPicker;
 
 const defaultColor = "#0000ff";
@@ -111,5 +112,5 @@ function updateAll(event) {
  });
 
 }
-	
+
 </script>
