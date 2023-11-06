@@ -51,7 +51,7 @@
 
 
 <p>
-  An example demonstrating the use of the color control.
+  An example demonstrating the use of the color control. The first color is random.
 </p>
 
 <label for="color-picker">Color:</label>
