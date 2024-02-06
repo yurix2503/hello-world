@@ -26,6 +26,7 @@
     <li><a href="https://ai.google/">Google AI</a>: Learn about Google's research, tools, and applications of artificial intelligence.</li>
     <li><a href="https://aimagazine.com/top10/top-10-our-favourite-ai-websites-to-use-in-2022">Top 10: Our favourite AI websites to use in 2022</a>:A list of some of the most fun and useful AI websites to try out.</li>
     <li><a href="https://justcreative.com/best-ai-tools/">101+ Best AI Tools (Sorted by Category) April 2023</a>: A comprehensive guide to the best AI tools for various purposes, such as art, copywriting, video, logo, and more.</li>
+    <li><a href="https://platform.openai.com">OpenAI</a>: OpenAI developer platform </li>
    </p>
   </ul>
 
