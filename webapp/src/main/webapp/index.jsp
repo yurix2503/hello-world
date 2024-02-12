@@ -79,6 +79,11 @@ function getRandomColor() {
 
 const defaultColor = getRandomColor();
 
+const paragraphs = document.querySelectorAll('p');
+paragraphs.forEach((p) => {
+  p.style.color = defaultColor;
+});				    
+
 window.addEventListener("load", startup, false);
 
 function startup() {
