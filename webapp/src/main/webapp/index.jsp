@@ -12,7 +12,7 @@
 <body>
 <body>
   <h1>Welcome to My AI Webpage</h1>
-  <p style="font-size: 24px;"><strong>This is a webpage that showcases some of the latest and coolest AI websites.</strong></p>
+  <p style="font-size: 24px;"><strong>This webpage showcases some of the latest and coolest AI websites.</strong></p>
   <ul>
     <p>
     <li><a href="https://linktr.ee/ai4u">Links to AI Tools</a>: List of Links to AI Tools by Digital Culture</li>
