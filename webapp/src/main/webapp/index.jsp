@@ -28,6 +28,18 @@
     <li><a href="https://aimagazine.com/top10/top-10-our-favourite-ai-websites-to-use-in-2022">Top 10: Our favourite AI websites to use in 2022</a>:A list of some of the most fun and useful AI websites to try out.</li>
     <li><a href="https://justcreative.com/best-ai-tools/">101+ Best AI Tools (Sorted by Category) April 2023</a>: A comprehensive guide to the best AI tools for various purposes, such as art, copywriting, video, logo, and more.</li>
     <li><a href="https://platform.openai.com">OpenAI</a>: OpenAI developer platform </li>
+    <li><a href="https://www.deeplearning.ai/courses/generative-ai-for-everyone/">DeepLearning.AI</a>: Generative AI for Everyone </li>
+    <li><a href="https://www.deeplearning.ai/courses/chatgpt-prompt-engineering-for-developers/">DeepLearning.AI</a>: ChatGPT Prompt Engineering for Developers </li>
+    <li><a href="https://www.deeplearning.ai/courses/langchain-for-llm-application-development/">DeepLearning.AI</a>: LangChain for LLM Application Development </li>
+    <li><a href="https://www.cloudskillsboost.google/course_templates/536">Google</a>: Introduction to Generative AI </li>
+    <li><a href="https://www.cloudskillsboost.google/course_templates/554">Google</a>: Introduction to Responsible AI</li>
+    <li><a href="https://learnprompting.org/">LearningPrompting</a>: Your Guide to Generative AI</li>
+    <li><a href="https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/">Microsoft</a>: Microsoft Azure AI Fundamentals: Generative AI</li>
+    <li><a href="https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python/2023-05">Harvard University</a>: Harvard AI Introduction </li>
+    <li><a href="https://pll.harvard.edu/course/data-science-machine-learning">Harvard University</a>: Data Science: Machine Learning </li>
+    <li><a href="https://explore.skillbuilder.aws/learn/course/external/view/elearning/17763/foundations-of-prompt-engineering">AWS</a>: Foundations of Prompt Engineering </li>
+    <li><a href="https://explore.skillbuilder.aws/learn/public/learning_plan/view/1909/generative-ai-learning-plan-for-decision-makers">AWS</a>: Generative AI Learning Plan for Decision Makers </li>
+    <li><a href="https://www.coursera.org/learn/generative-ai-with-llms">AWS-coursera.org</a>:  Generative AI with Large Language Models</li>
    </p>
   </ul>
 
