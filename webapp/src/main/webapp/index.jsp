@@ -15,31 +15,31 @@
   <p style="font-size: 24px;"><strong>This webpage showcases some of the latest and coolest AI websites.</strong></p>
   <ul>
     <p>
-    <li><a href="https://linktr.ee/ai4u">Links to AI Tools</a>: List of Links to AI Tools by Digital Culture</li>
-    <li><a href="https://chat.openai.com/chat">ChatGPT</a>:AI ChatBot by OpenAI </li>
-    <li><a href="https://bard.google.com/?hl=en">Bard-AI</a>: AI ChatBot by Google </li>
-    <li><a href="https://www.bing.com/?/ai">Bing-AI</a>: AI ChatBot by Microsoft</li>
-    <li><a href="https://claude.ai">Claude-AI</a>: AI ChatBot by Anthropic</li>
-    <li><a href="https://theresanaiforthat.com/">There Is An AI For That</a>: The largest AI aggregator by Potato: AI Investment Ideas</li>
-    <li><a href="https://midjourney.com">MidJourney</a>: Best AI Art Generator</li>
-    <li><a href="https://shutterstock.7eer.net/6b3nyK">Shutterstock Generator</a>: Generate licensable AI stock art &#8211;</li>
-    <li><a href="https://bito.co">Bito</a>: Best AI Coding Tool</li>
-    <li><a href="https://ai.google/">Google AI</a>: Learn about Google's research, tools, and applications of artificial intelligence.</li>
-    <li><a href="https://aimagazine.com/top10/top-10-our-favourite-ai-websites-to-use-in-2022">Top 10: Our favourite AI websites to use in 2022</a>:A list of some of the most fun and useful AI websites to try out.</li>
-    <li><a href="https://justcreative.com/best-ai-tools/">101+ Best AI Tools (Sorted by Category) April 2023</a>: A comprehensive guide to the best AI tools for various purposes, such as art, copywriting, video, logo, and more.</li>
-    <li><a href="https://platform.openai.com">OpenAI</a>: OpenAI developer platform </li>
-    <li><a href="https://www.deeplearning.ai/courses/generative-ai-for-everyone/">DeepLearning.AI</a>: Generative AI for Everyone </li>
-    <li><a href="https://www.deeplearning.ai/courses/chatgpt-prompt-engineering-for-developers/">DeepLearning.AI</a>: ChatGPT Prompt Engineering for Developers </li>
-    <li><a href="https://www.deeplearning.ai/courses/langchain-for-llm-application-development/">DeepLearning.AI</a>: LangChain for LLM Application Development </li>
-    <li><a href="https://www.cloudskillsboost.google/course_templates/536">Google</a>: Introduction to Generative AI </li>
-    <li><a href="https://www.cloudskillsboost.google/course_templates/554">Google</a>: Introduction to Responsible AI</li>
-    <li><a href="https://learnprompting.org/">LearningPrompting</a>: Your Guide to Generative AI</li>
-    <li><a href="https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/">Microsoft</a>: Microsoft Azure AI Fundamentals: Generative AI</li>
-    <li><a href="https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python/2023-05">Harvard University</a>: Harvard AI Introduction </li>
-    <li><a href="https://pll.harvard.edu/course/data-science-machine-learning">Harvard University</a>: Data Science: Machine Learning </li>
-    <li><a href="https://explore.skillbuilder.aws/learn/course/external/view/elearning/17763/foundations-of-prompt-engineering">AWS</a>: Foundations of Prompt Engineering </li>
-    <li><a href="https://explore.skillbuilder.aws/learn/public/learning_plan/view/1909/generative-ai-learning-plan-for-decision-makers">AWS</a>: Generative AI Learning Plan for Decision Makers </li>
-    <li><a href="https://www.coursera.org/learn/generative-ai-with-llms">AWS-coursera.org</a>:  Generative AI with Large Language Models</li>
+    <li><a href="https://linktr.ee/ai4u">Links to AI Tools: List of Links to AI Tools by Digital Culture</a></li>
+    <li><a href="https://chat.openai.com/chat">ChatGPT:AI ChatBot by OpenAI</a></li>
+    <li><a href="https://bard.google.com/?hl=en">Bard-AI: AI ChatBot by Google</a></li>
+    <li><a href="https://www.bing.com/?/ai">Bing-AI: AI ChatBot by Microsoft</a></li>
+    <li><a href="https://claude.ai">Claude-AI: AI ChatBot by Anthropic</a></li>
+    <li><a href="https://theresanaiforthat.com/">There Is An AI For That: The largest AI aggregator by Potato: AI Investment Ideas</a></li>
+    <li><a href="https://midjourney.com">MidJourney: Best AI Art Generator</a></li>
+    <li><a href="https://shutterstock.7eer.net/6b3nyK">Shutterstock Generator: Generate licensable AI stock art</a></li>
+    <li><a href="https://bito.co">Bito: Best AI Coding Tool</a></li>
+    <li><a href="https://ai.google/">Google AI: Learn about Google's research, tools, and applications of artificial intelligence</a></li>
+    <li><a href="https://aimagazine.com/top10/top-10-our-favourite-ai-websites-to-use-in-2022">AImagazine.com: Top 10 list of the fun and useful AI websites in 2022</a></li>
+    <li><a href="https://justcreative.com/best-ai-tools/">Justcreative.com: 101+ Best AI Tools (Sorted by Category) April 2023</a></li>
+    <li><a href="https://platform.openai.com">OpenAI: developer platform</a></li>
+    <li><a href="https://www.deeplearning.ai/courses/generative-ai-for-everyone/">DeepLearning.AI: Generative AI for Everyone</a></li>
+    <li><a href="https://www.deeplearning.ai/courses/chatgpt-prompt-engineering-for-developers/">DeepLearning.AI: ChatGPT Prompt Engineering for Developers</a></li>
+    <li><a href="https://www.deeplearning.ai/courses/langchain-for-llm-application-development/">DeepLearning.AI: LangChain for LLM Application Development</a></li>
+    <li><a href="https://www.cloudskillsboost.google/course_templates/536">Google: Introduction to Generative AI</a></li>
+    <li><a href="https://www.cloudskillsboost.google/course_templates/554">Google: Introduction to Responsible AI</a></li>
+    <li><a href="https://learnprompting.org/">LearningPrompting: Your Guide to Generative AI</a></li>
+    <li><a href="https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/">Microsoft: Microsoft Azure AI Fundamentals: Generative AI</a></li>
+    <li><a href="https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python/2023-05">Harvard University: Harvard AI Introduction</a></li>
+    <li><a href="https://pll.harvard.edu/course/data-science-machine-learning">Harvard University: Data Science: Machine Learning</a></li>
+    <li><a href="https://explore.skillbuilder.aws/learn/course/external/view/elearning/17763/foundations-of-prompt-engineering">AWS: Foundations of Prompt Engineering</a></li>
+    <li><a href="https://explore.skillbuilder.aws/learn/public/learning_plan/view/1909/generative-ai-learning-plan-for-decision-makers">AWS: Generative AI Learning Plan for Decision Makers</a></li>
+    <li><a href="https://www.coursera.org/learn/generative-ai-with-llms">AWS-coursera.org:  Generative AI with Large Language Models</a></li>
    </p>
   </ul>
 
