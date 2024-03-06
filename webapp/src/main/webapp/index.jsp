@@ -28,9 +28,7 @@
     <li><a href="https://aimagazine.com/top10/top-10-our-favourite-ai-websites-to-use-in-2022">AImagazine.com: Top 10 list of the fun and useful AI websites in 2022</a></li>
     <li><a href="https://justcreative.com/best-ai-tools/">Justcreative.com: 101+ Best AI Tools (Sorted by Category) April 2023</a></li>
     <li><a href="https://platform.openai.com">OpenAI: developer platform</a></li>
-    <li><a href="https://www.deeplearning.ai/courses/generative-ai-for-everyone/">DeepLearning.AI: Generative AI for Everyone</a></li>
-    <li><a href="https://www.deeplearning.ai/courses/chatgpt-prompt-engineering-for-developers/">DeepLearning.AI: ChatGPT Prompt Engineering for Developers</a></li>
-    <li><a href="https://www.deeplearning.ai/courses/langchain-for-llm-application-development/">DeepLearning.AI: LangChain for LLM Application Development</a></li>
+    <li><a href="https://www.deeplearning.ai/courses/">DeepLearning.AI: Gain the knowledge and skills for an AI career</a></li>
     <li><a href="https://www.cloudskillsboost.google/course_templates/536">Google: Introduction to Generative AI</a></li>
     <li><a href="https://www.cloudskillsboost.google/course_templates/554">Google: Introduction to Responsible AI</a></li>
     <li><a href="https://learnprompting.org/">LearningPrompting: Your Guide to Generative AI</a></li>
