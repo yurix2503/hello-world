@@ -16,7 +16,8 @@
   <ul>
     <p>
     <li><a href="https://linktr.ee/ai4u">Links to AI Tools: List of Links to AI Tools by Digital Culture</a></li>
-    <li><a href="https://chat.openai.com/chat">ChatGPT:AI ChatBot by OpenAI</a></li>
+    <li><a href="https://chat.openai.com/chat">OpenAI: ChatGPT - ChatBot</a></li>
+    <li><a href="https://openai.com/sora">OpenAI:Sora - Creating video from text</a></li>
     <li><a href="https://bard.google.com/?hl=en">Bard-AI: AI ChatBot by Google</a></li>
     <li><a href="https://www.bing.com/?/ai">Bing-AI: AI ChatBot by Microsoft</a></li>
     <li><a href="https://claude.ai">Claude-AI: AI ChatBot by Anthropic</a></li>
