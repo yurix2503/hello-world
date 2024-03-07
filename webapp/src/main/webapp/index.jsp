@@ -12,10 +12,20 @@
 <body>
 <body>
   <h1>Welcome to My AI Webpage</h1>
-  <video width="640" height="360" controls autoplay>
+  <video id="myVideo" width="640" height="360" controls autoplay loop>
     <source src="/webapp/wooly-mammoth.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    setTimeout(function() {
+      var video = document.getElementById("myVideo");
+      video.play();
+    }, 500); // 500 milliseconds = 0.5 second
+  });
+</script>
+
   <p style="font-size: 24px;"><strong>This webpage showcases some of the latest and coolest AI websites.</strong></p>
   <ul>
     <p>
