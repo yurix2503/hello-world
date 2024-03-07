@@ -29,8 +29,7 @@
     <li><a href="https://justcreative.com/best-ai-tools/">Justcreative.com: 101+ Best AI Tools (Sorted by Category) April 2023</a></li>
     <li><a href="https://platform.openai.com">OpenAI: developer platform</a></li>
     <li><a href="https://www.deeplearning.ai/courses/">DeepLearning.AI: Gain the knowledge and skills for an AI career</a></li>
-    <li><a href="https://www.cloudskillsboost.google/course_templates/536">Google: Introduction to Generative AI</a></li>
-    <li><a href="https://www.cloudskillsboost.google/course_templates/554">Google: Introduction to Responsible AI</a></li>
+    <li><a href="https://www.cloudskillsboost.google/catalog">Google: Cloud and AI courses catalog </a></li>
     <li><a href="https://learnprompting.org/">LearningPrompting: Your Guide to Generative AI</a></li>
     <li><a href="https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/">Microsoft: Microsoft Azure AI Fundamentals: Generative AI</a></li>
     <li><a href="https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python/2023-05">Harvard University: Harvard AI Introduction</a></li>
