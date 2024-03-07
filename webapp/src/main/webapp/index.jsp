@@ -13,7 +13,7 @@
 <body>
   <h1>Welcome to My AI Webpage</h1>
   <video width="640" height="360" controls autoplay loop>
-    <source src="/usr/local/tomcat/webapps/wooly-mammoth.mp4" type="video/mp4">
+    <source src="/webapps/wooly-mammoth.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
   <p style="font-size: 24px;"><strong>This webpage showcases some of the latest and coolest AI websites.</strong></p>
