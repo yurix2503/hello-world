@@ -31,9 +31,9 @@
     <p>
     <li><a href="https://linktr.ee/ai4u">Links to AI Tools: List of Links to AI Tools by Digital Culture</a></li>
     <li><a href="https://chat.openai.com/chat">OpenAI: ChatGPT - ChatBot</a></li>
-    <li><a href="https://openai.com/sora">OpenAI:Sora - Creating video from text</a></li>
-    <li><a href="https://bard.google.com/?hl=en">Bard-AI: AI ChatBot by Google</a></li>
-    <li><a href="https://www.bing.com/?/ai">Bing-AI: AI ChatBot by Microsoft</a></li>
+    <li><a href="https://openai.com/sora">OpenAI: Sora - Creating video from text</a></li>
+    <li><a href="https://bard.google.com/?hl=en">Gemini: AI ChatBot by Google</a></li>
+    <li><a href="https://www.bing.com/?/ai">Bing: AI ChatBot by Microsoft</a></li>
     <li><a href="https://claude.ai">Claude-AI: AI ChatBot by Anthropic</a></li>
     <li><a href="https://theresanaiforthat.com/">There Is An AI For That: The largest AI aggregator by Potato: AI Investment Ideas</a></li>
     <li><a href="https://midjourney.com">MidJourney: Best AI Art Generator</a></li>
