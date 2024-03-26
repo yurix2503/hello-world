@@ -29,17 +29,17 @@
   <p style="font-size: 24px;"><strong>This webpage showcases some of the latest and coolest AI websites.</strong></p>
   <ul>
     <p>
-    <li><a href="https://linktr.ee/ai4u">Links to AI Tools: List of Links to AI Tools by Digital Culture</a></li>
-    <li><a href="https://chat.openai.com/chat">OpenAI: ChatGPT - ChatBot</a></li>
-    <li><a href="https://openai.com/sora">OpenAI: Sora - Creating video from text</a></li>
-    <li><a href="https://bard.google.com/?hl=en">Gemini: AI ChatBot by Google</a></li>
-    <li><a href="https://www.bing.com/?/ai">Bing: AI ChatBot by Microsoft</a></li>
-    <li><a href="https://claude.ai">Claude-AI: AI ChatBot by Anthropic</a></li>
+    <li><a href="https://chat.openai.com/chat">ChatGPT: Genereative AI ChatBot by OpenAI</a></li>
+    <li><a href="https://openai.com/sora">Sora: Creating video from text by OpenAI</a></li>
+    <li><a href="https://bard.google.com/?hl=en">Gemini: Genereative AI ChatBot by Google</a></li>
+    <li><a href="https://www.bing.com/?/ai">Bing: Genereative AI ChatBot by Microsoft</a></li>
+    <li><a href="https://claude.ai">Claude-AI: Genereative AI ChatBot by Anthropic</a></li>
     <li><a href="https://theresanaiforthat.com/">There Is An AI For That: The largest AI aggregator by Potato: AI Investment Ideas</a></li>
     <li><a href="https://midjourney.com">MidJourney: Best AI Art Generator</a></li>
     <li><a href="https://shutterstock.7eer.net/6b3nyK">Shutterstock Generator: Generate licensable AI stock art</a></li>
     <li><a href="https://bito.co">Bito: Best AI Coding Tool</a></li>
     <li><a href="https://ai.google/">Google AI: Learn about Google's research, tools, and applications of artificial intelligence</a></li>
+    <li><a href="https://cloud.google.com/vertex-ai?hl=en">Vertex AI: Build generative AI apps quickly with Gemini</a></li>
     <li><a href="https://aimagazine.com/top10/top-10-our-favourite-ai-websites-to-use-in-2022">AImagazine.com: Top 10 list of the fun and useful AI websites in 2022</a></li>
     <li><a href="https://justcreative.com/best-ai-tools/">Justcreative.com: 101+ Best AI Tools (Sorted by Category) April 2023</a></li>
     <li><a href="https://platform.openai.com">OpenAI: developer platform</a></li>
@@ -52,6 +52,7 @@
     <li><a href="https://explore.skillbuilder.aws/learn/course/external/view/elearning/17763/foundations-of-prompt-engineering">AWS: Foundations of Prompt Engineering</a></li>
     <li><a href="https://explore.skillbuilder.aws/learn/public/learning_plan/view/1909/generative-ai-learning-plan-for-decision-makers">AWS: Generative AI Learning Plan for Decision Makers</a></li>
     <li><a href="https://www.coursera.org/learn/generative-ai-with-llms">AWS-coursera.org:  Generative AI with Large Language Models</a></li>
+    <li><a href="https://linktr.ee/ai4u">Links to AI Tools: List of Links to AI Tools by Digital Culture</a></li>
    </p>
   </ul>
 
