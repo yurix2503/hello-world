@@ -13,7 +13,7 @@
 <body>
   <h1>Welcome to My AI Webpage</h1>
   <video id="myVideo" width="640" height="360" controls autoplay loop>
-    <source src="/webapp/wooly-mammoth.mp4" type="video/mp4">
+    <source src="/webapp/ai_clip.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
