@@ -53,6 +53,7 @@
     <li><a href="https://explore.skillbuilder.aws/learn/public/learning_plan/view/1909/generative-ai-learning-plan-for-decision-makers">AWS: Generative AI Learning Plan for Decision Makers</a></li>
     <li><a href="https://www.coursera.org/learn/generative-ai-with-llms">AWS-coursera.org:  Generative AI with Large Language Models</a></li>
     <li><a href="https://linktr.ee/ai4u">Links to AI Tools: List of Links to AI Tools by Digital Culture</a></li>
+	<li><a href="https://rehack.com/ai/artificial-intelligence-podcast/">Top 10 Best Artificial Intelligence Podcasts</a></li>  
    </p>
   </ul>
 
