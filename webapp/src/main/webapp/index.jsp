@@ -35,6 +35,7 @@
     <li><a href="https://www.bing.com/?/ai">Bing: Genereative AI ChatBot by Microsoft</a></li>
     <li><a href="https://claude.ai">Claude-AI: Genereative AI ChatBot by Anthropic</a></li>
     <li><a href="https://theresanaiforthat.com/">There Is An AI For That: The largest AI aggregator by Potato: AI Investment Ideas</a></li>
+    <li><a href="https://easywithai.com/">AI Tools site: The best AI tools and services in one place by EasyWithAI.com</a></li>
     <li><a href="https://midjourney.com">MidJourney: Best AI Art Generator</a></li>
     <li><a href="https://shutterstock.7eer.net/6b3nyK">Shutterstock Generator: Generate licensable AI stock art</a></li>
     <li><a href="https://bito.co">Bito: Best AI Coding Tool</a></li>
@@ -53,7 +54,8 @@
     <li><a href="https://explore.skillbuilder.aws/learn/public/learning_plan/view/1909/generative-ai-learning-plan-for-decision-makers">AWS: Generative AI Learning Plan for Decision Makers</a></li>
     <li><a href="https://www.coursera.org/learn/generative-ai-with-llms">AWS-coursera.org:  Generative AI with Large Language Models</a></li>
     <li><a href="https://linktr.ee/ai4u">Links to AI Tools: List of Links to AI Tools by Digital Culture</a></li>
-	<li><a href="https://rehack.com/ai/artificial-intelligence-podcast/">Top 10 Best Artificial Intelligence Podcasts</a></li>  
+    <li><a href="https://rehack.com/ai/artificial-intelligence-podcast/">Top 10 Best Artificial Intelligence Podcasts</a></li>  
+    <li><a href="https://www.cognition-labs.com/">Devin: Devin - the first AI software engineer by Cognition labs </a></li>   
    </p>
   </ul>
 
