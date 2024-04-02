@@ -38,7 +38,6 @@
     <li><a href="https://easywithai.com/">AI Tools site: The best AI tools and services in one place by EasyWithAI.com</a></li>
     <li><a href="https://midjourney.com">MidJourney: Best AI Art Generator</a></li>
     <li><a href="https://shutterstock.7eer.net/6b3nyK">Shutterstock Generator: Generate licensable AI stock art</a></li>
-    <li><a href="https://bito.co">Bito: Best AI Coding Tool</a></li>
     <li><a href="https://ai.google/">Google AI: Learn about Google's research, tools, and applications of artificial intelligence</a></li>
     <li><a href="https://cloud.google.com/vertex-ai?hl=en">Vertex AI: Build generative AI apps quickly with Gemini</a></li>
     <li><a href="https://aimagazine.com/top10/top-10-our-favourite-ai-websites-to-use-in-2022">AImagazine.com: Top 10 list of the fun and useful AI websites in 2022</a></li>
