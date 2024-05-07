@@ -55,6 +55,7 @@
     <li><a href="https://linktr.ee/ai4u">Links to AI Tools: List of Links to AI Tools by Digital Culture</a></li>
     <li><a href="https://rehack.com/ai/artificial-intelligence-podcast/">Top 10 Best Artificial Intelligence Podcasts</a></li>  
     <li><a href="https://www.cognition-labs.com/">Devin: Devin - the first AI software engineer by Cognition labs </a></li>   
+    <li><a href="https://clickup.com/">ClickUP: AI-powered assistant tailored to your role </a></li>   
    </p>
   </ul>
 
