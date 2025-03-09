@@ -57,6 +57,7 @@
     <li><a href="https://www.cognition-labs.com/">Devin: Devin - the first AI software engineer by Cognition labs </a></li>   
     <li><a href="https://clickup.com/">ClickUP: AI-powered assistant tailored to your role </a></li>   
     <li><a href="https://notebooklm.google/">Google NotebookLM: AI research assistant powered by Gemini 1.5 Pro. Upload your sources and NotebookLM will generate a personalized guide</a></li>   
+    <li><a href="https://www.deepseek.com/">DeepSeek: DeepSeek is an open-source advanced large language model developed by a Chinese company that is designed for reasoning, problem-solving, content generation, and various natural language processing tasks, similar to ChatGPT but with a different approach </a></li>
    </p>
   </ul>
 
